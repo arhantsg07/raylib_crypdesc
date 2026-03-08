@@ -39,12 +39,12 @@
 #define CARD_BORDER_W 1.5f
 
 // ── Typography ──────────────────────────────────────────
-#define FONT_TITLE 48
-#define FONT_HEADING 28
-#define FONT_SUBHEADING 22
-#define FONT_BODY 20
-#define FONT_SMALL 14
-#define FONT_TINY 12
+#define FONT_TITLE 50
+#define FONT_HEADING 32
+#define FONT_SUBHEADING 26
+#define FONT_BODY 24
+#define FONT_SMALL 18
+#define FONT_TINY 16
 #define FONT_SPACING 1.0f
 
 // ── Global custom font ─────────────────────────────────
